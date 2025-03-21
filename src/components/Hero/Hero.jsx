@@ -10,7 +10,7 @@ export const Hero = () => {
       <h1><span>I'm Elisha Sunday,</span> frontend developer based in Nigeria</h1>
       <p>
         I am a frontend developer from Akwa-Ibom, Nigeria with many years of
-        experience in multiple companies like Shepherd Porch, Midlan Tech and
+        experience in multiple companies like Shepherd Porch, Midland Tech and
         Flourishers
       </p>
       <div className="hero-action">

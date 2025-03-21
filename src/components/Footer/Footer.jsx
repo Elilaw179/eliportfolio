@@ -8,19 +8,20 @@ const Footer = () => {
     <div className="footer">
       <div className="footer-top">
         <div className="footer-top-left">
-          <img src={footer_logo} alt="" />
+          <h1>SirLaw@</h1>
+         
           <p>
             I am a frontend developer from Akwa-Ibom, Nigeria with many years of
             experience in multiple companies like Shepherd Porch, Midlan Tech
             and Flourishers
-          </p>
+          </p> 
         </div>
         <div className="footer-top-right">
           <div className="footer-email-input">
             <img src={user_icon} alt="" />
             <input type="email" placeholder="Enter your email" />
           </div>
-          <div className="footer-subscribe">Subscribe</div>
+          <div className="footer-subscribe">Subscribe </div>
         </div>
       </div>
       <hr />

@@ -21,7 +21,6 @@ import { useRef } from "react";
   return (
     <div className="navbar">
       <h1>SirLaw@</h1>
-      {/* <img src={logo} alt="" /> */}
     
       <img src={menu_open} onClick={openMenu} alt="" className="nav-mob-open" />
 

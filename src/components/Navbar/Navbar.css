@@ -2,7 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 20px 170px;
+
+  /* margin: 20px 170px; */
 }
 
 
@@ -61,7 +62,7 @@
 
 @media (max-width: 768px) {
   .navbar {
-    margin: 20px 50px;
+  width: 100%;
   }
   .nav-connect {
     display: none;

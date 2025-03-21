@@ -18,14 +18,16 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              I am a frontend developer from Akwa-Ibom, Nigeria with 2 years of
-              experience in multiple companies like Shepherd Porch, Midlan Tech
-              and Flourishers
+              I’m a Frontend Engineer passionate about crafting clean,
+              responsive, and user-friendly web applications. With expertise in
+              React, JavaScript, and modern UI frameworks, I focus on building
+              sleek designs with seamless functionality.
             </p>
             <p>
-              I am a frontend developer from Akwa-Ibom, Nigeria with 2 years of
-              experience in multiple companies like Shepherd Porch, Midlan Tech
-              and Flourishers
+              I love solving challenges, optimizing performance, and ensuring a
+              great user experience across all devices. Always eager to learn
+              and collaborate, I strive to create impactful digital solutions.
+              Let's build something amazing! 🚀💻✨
             </p>
           </div>
           <div className="about-skills">
