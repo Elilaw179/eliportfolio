@@ -90,18 +90,28 @@
   }
 
   .footer-email-input {
-    margin-bottom: 15px;
+    margin-bottom: 17px;
+    height: 10px;
+  }
+
+  .footer-email-input input{
+ font-size: 15px;
   }
 
   .footer-subscribe {
     width: 45%;
     margin: auto;
     padding: 15px;
+    font-size: 15px;
     text-align: center;
   }
 
   .footer-top-left {
     text-align: center;
+  }
+
+  .footer-top-left p {
+    font-size: 16px;
   }
 
   .footer-top {
@@ -113,5 +123,14 @@
     display: flex;
     flex-direction: column-reverse;
     margin-bottom: 50px;
+  }
+
+  .footer-bottom-right {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .footer-bottom-left{
+    text-align: center;
   }
 }

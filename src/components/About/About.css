@@ -120,7 +120,7 @@
   }
 
   .about h1 {
-    font-size: 50px;
+    font-size: 30px;
     padding: 0;
   }
   .about-title img {
@@ -154,16 +154,18 @@
 
   .about-achievements {
     justify-content: space-between;
+    padding: 5px;
   }
   .about-achievement {
     gap: 10px;
   }
   .about-achievement h1 {
-    font-size: 34px;
+    font-size: 30px;
     font-weight: 700;
   }
   .about-achievement p {
     text-align: center;
-    font-size: 16px;
+    font-size: 6px;
+    font-weight: 100;
   }
 }

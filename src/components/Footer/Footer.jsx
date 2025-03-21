@@ -1,9 +1,13 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Footer.css";
 import footer_logo from "../../assets/footer_logo.svg";
 import user_icon from "../../assets/user_icon.svg";
 
 const Footer = () => {
+  const[year, setYear] =useState(new Date().getFullYear());
+ function copyRightYear (){
+  setYear(new Date().getFullYear)
+ }
   return (
     <div className="footer">
       <div className="footer-top">
@@ -14,7 +18,7 @@ const Footer = () => {
             I am a frontend developer from Akwa-Ibom, Nigeria with many years of
             experience in multiple companies like Shepherd Porch, Midlan Tech
             and Flourishers
-          </p> 
+          </p>  
         </div>
         <div className="footer-top-right">
           <div className="footer-email-input">
@@ -26,7 +30,7 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">0 2023 Elisha Sunday.All rights</p>
+        <p className="footer-bottom-left"> &copy;{year} Elisha Sunday.All rights</p>
         <div className="footer-bottom-right">
           <p>Term of services</p>
           <p>Privacy policy</p>

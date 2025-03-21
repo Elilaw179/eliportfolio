@@ -42,7 +42,7 @@ import { useRef } from "react";
           <AnchorLink className="anchor-link" offset={50} href="#services">
             <p onClick={() => setMenu("services")}>Service</p>
           </AnchorLink>
-          {menu === "services" ? <img src={underline} /> : <></>}
+          {menu === "services" ? <img src={underline} /> : <></>}   
         </li>
         <li>
           <AnchorLink className="anchor-link" offset={50} href="#work">
