@@ -153,6 +153,10 @@
     gap: 20px;
   }
 
+  .contact-details {
+    margin: auto;
+  }
+
   .contact-detail img{
     width: 25px;
   }
