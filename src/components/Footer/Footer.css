@@ -82,6 +82,8 @@
     /* margin: 50px; */
     margin: auto;
     padding: 10px;
+    align-items: center;
+
   }
 
   .footer-top-right {
@@ -112,7 +114,7 @@
   }
 
   .footer-top-left p {
-    font-size: 13px;
+    font-size: 18px !important;
   }
 
   .footer-top {

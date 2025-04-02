@@ -143,9 +143,11 @@
 
   .contact-left h1{
     font-size: 20px;
+    text-align: center;
   }
   .contact-left p{
     font-size: 18px;
+    text-align: center;
   }
   .contact-detail{
     gap: 20px;
