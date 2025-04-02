@@ -16,7 +16,7 @@ const Footer = () => {
          
           <p>
             I am a frontend developer from Akwa-Ibom, Nigeria with many years of
-            experience in multiple companies like Shepherd Porch, Midlan Tech
+            experience in multiple companies like Shepherd Porch, Midland Tech
             and Flourishers
           </p>  
         </div>

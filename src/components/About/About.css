@@ -115,8 +115,13 @@
 @media (max-width: 768px) {
   .about {
     gap: 30px;
-    margin: 50px 70px;
+    /* margin: 50px 70px; */
+    margin: auto;
+    margin-top: 50px;
     align-items: start;
+    width: 90%;
+    align-items: center;
+    text-align: c;
   }
 
   .about h1 {
@@ -165,7 +170,7 @@
   }
   .about-achievement p {
     text-align: center;
-    font-size: 6px;
+    font-size: 8px;
     font-weight: 100;
   }
 }

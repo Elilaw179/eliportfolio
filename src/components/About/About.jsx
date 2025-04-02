@@ -46,7 +46,7 @@ const About = () => {
             <div className="about-skill">
               <p>Next Js</p>
               <hr style={{ width: "50%" }} />
-            </div>
+            </div>  
           </div>
         </div>
       </div>

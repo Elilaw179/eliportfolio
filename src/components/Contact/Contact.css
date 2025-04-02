@@ -124,8 +124,9 @@
   }
   .contact{
     gap: 50px;
-    margin: 50px 70px;
-    align-items: start;
+    margin: auto;
+    width: 90%;
+    align-items: center;
   }
   .contact-title h1{
     padding: 0;
